@@ -1,7 +1,7 @@
 body{
     width: 60%;
     margin: auto;
-    background-color: #CA6680;
+    background-color: #F7C5CC;
     font-family: 'Cormorant', serif;
 }
 
@@ -20,14 +20,15 @@ a:hover{
 }
 
 h1{
-color: #B7990D;
+color: #CC313D;
 font-size: 60px;
 text-align: center;
 font: bold;
 }
 
 p{
-    color: #B7990D;
+    color: #CC313D;
     font-size: 30;
     text-align: center;
+    font: bold;
 }
